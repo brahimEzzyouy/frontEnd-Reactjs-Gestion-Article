@@ -2,7 +2,7 @@ import React from 'react'
 
  const NewArticle=()=>{
   return (
-    <div>
+    <div style={{justifyContent:'center', paddingTop:'7rem'}}>
         <form class="row g-3 col-md-8 offset-2">
             <div class="col-md-6">
                 <label for="inputEmail4" class="form-label">Email</label>
@@ -44,7 +44,7 @@ import React from 'react'
                 </div>
             </div>
             <div class="col-12">
-                <button type="submit" class="btn btn-primary">Sign in</button>
+                <button type="submit" class="btn btn-primary">Submit</button>
             </div>
         </form>
     </div>

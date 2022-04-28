@@ -32,7 +32,7 @@ const Nav=()=> {
       </ul>
       <form class="d-flex">
         <div class="nav-item dropdown">
-          <button class="btn btn-primary" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" >
+          <button class="btn btn-primary rounded-circle" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" >
           <BsFillDoorClosedFill size={20} />
           
           </button>
